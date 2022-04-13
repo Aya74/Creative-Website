@@ -1,8 +1,8 @@
 # ✧ Creative-Website 🤩
-# ✧ Short description about the page 
+# ✧ Short description about the page:
 This page is my first page at front-end course using html and css and media query.😄<br>
 
-# ✧ The way of installation the project to run it locally.
+# ✧ The way of installation the project to run it locally:
 
 1- Press at the link: [Github Creative website repository](https://github.com/Aya74/Creative-Website).<br>
 2- Click at code button.<br>
@@ -16,11 +16,11 @@ This page is my first page at front-end course using html and css and media quer
 10- Right-click with the mouse.<br>
 11- Select open with live server.<br>
 
-# ✧ Tech stack and the purpose of it
+# ✧ Tech stack and the purpose of it:
 * Html ➡ To make the structure of the website.<br>
 * Css ➡ To add colors, position ..etc to the elements.<br>
 * media query ➡ To make the page responsive.<br>
 
-# ✧ Made by 
+# ✧ Made by:
 - [Aya Mazen Alarayshi](https://github.com/Aya74)
 
