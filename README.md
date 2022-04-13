@@ -1,6 +1,6 @@
 # ✧ Creative-Website 🤩
 # ✧ Short description about the page:
-This page is my first page at front-end course using html and css and media query.😄<br>
+This page is my first page at front-end course using html, css and media query.😄<br>
 
 # ✧ The way of installation the project to run it locally:
 
