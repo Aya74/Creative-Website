@@ -17,9 +17,9 @@ This page is my first page at front-end course using html and css and media quer
 11- Select open with live server.<br>
 
 # ✧ Tech stack and the purpose of it
-* Html ➙ To make the structure of the website.<br>
-* Css ➙ To add colors, position ..etc to the elements.<br>
-* media query ➙ To make the page responsive.<br>
+* Html ➡ To make the structure of the website.<br>
+* Css ➡ To add colors, position ..etc to the elements.<br>
+* media query ➡ To make the page responsive.<br>
 
 # ✧ Made by 
 - [Aya Mazen Alarayshi](https://github.com/Aya74)
